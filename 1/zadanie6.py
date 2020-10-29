@@ -4,6 +4,8 @@ i = int(input('Podaj i'))
 j = int(input('Podaj j'))
 k = int(input('Podaj k'))
 
+print(i, j ,k)
+
 napis = ''
 
 if i > 10:
